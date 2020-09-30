@@ -1,0 +1,13 @@
+Student dhjtvse
+Student gyymbgh
+Presence dhjtvse 4 12:36 17:27 y949
+Presence pvad 4 04:33 23:36 y949
+Student pvad
+Presence dhjtvse 3 05:35 18:34 f637
+Presence pvad 5 06:28 13:38 x274
+Presence pvad 3 17:46 19:08 y949
+Presence dhjtvse 1 09:03 10:34 y949
+Presence gyymbgh 1 14:48 21:26 y949
+Presence pvad 5 04:17 14:28 x274
+Presence gyymbgh 6 22:25 23:18 f637
+Presence pvad 6 00:57 16:05 x274

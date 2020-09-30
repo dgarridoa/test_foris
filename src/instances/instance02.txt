@@ -1,0 +1,110 @@
+Student pvad
+Student dhjtvse
+Student gyymbgh
+Student oyrfzni
+Student utqtf
+Student ppasdy
+Student tttoh
+Student bjza
+Student kuxdlsx
+Student caae
+Presence pvad 2 20:33 22:17 y357
+Presence oyrfzni 2 07:48 19:19 d970
+Presence ppasdy 3 06:40 14:59 x879
+Presence caae 1 18:00 21:46 x879
+Presence utqtf 4 14:42 20:25 o182
+Presence utqtf 2 11:03 12:39 r435
+Presence tttoh 5 04:40 18:51 x879
+Presence utqtf 4 17:08 21:50 b157
+Presence utqtf 2 10:12 22:10 b157
+Presence oyrfzni 2 16:44 17:16 o182
+Presence utqtf 3 05:05 12:39 i856
+Presence utqtf 1 05:43 12:51 b157
+Presence kuxdlsx 1 02:33 16:20 x879
+Presence utqtf 3 22:57 23:54 x879
+Presence oyrfzni 5 05:57 17:27 e717
+Presence bjza 1 11:37 14:30 r435
+Presence ppasdy 5 06:47 08:20 e717
+Presence ppasdy 4 23:55 23:58 b157
+Presence pvad 4 17:33 20:47 e717
+Presence dhjtvse 1 15:29 22:13 b157
+Presence ppasdy 1 23:15 23:30 y357
+Presence caae 4 10:31 16:46 d970
+Presence oyrfzni 6 15:47 18:31 v650
+Presence pvad 4 14:14 22:50 x879
+Presence ppasdy 1 08:22 16:39 k542
+Presence pvad 4 00:07 20:36 b157
+Presence dhjtvse 1 10:17 17:11 y357
+Presence gyymbgh 6 16:49 22:54 x879
+Presence utqtf 3 02:17 14:35 r435
+Presence gyymbgh 2 11:34 18:33 e717
+Presence pvad 1 14:11 23:56 o182
+Presence oyrfzni 5 23:20 23:46 d970
+Presence gyymbgh 1 15:32 22:51 y357
+Presence pvad 4 19:32 19:58 e717
+Presence bjza 5 16:48 23:02 k542
+Presence ppasdy 5 21:23 21:45 y357
+Presence caae 2 02:06 09:46 e717
+Presence pvad 1 09:37 21:36 e717
+Presence gyymbgh 3 13:24 19:18 d970
+Presence bjza 5 22:28 23:58 o182
+Presence gyymbgh 5 16:16 17:07 o182
+Presence caae 3 01:52 18:30 o182
+Presence gyymbgh 5 10:50 22:50 d970
+Presence oyrfzni 4 03:57 17:32 e717
+Presence oyrfzni 3 23:04 23:44 r435
+Presence gyymbgh 4 16:30 18:38 e717
+Presence oyrfzni 1 01:03 06:30 o182
+Presence utqtf 6 07:34 17:40 d970
+Presence dhjtvse 6 21:29 21:35 d970
+Presence gyymbgh 6 10:03 21:28 y357
+Presence caae 1 10:23 14:28 i856
+Presence dhjtvse 1 05:39 08:28 r435
+Presence utqtf 6 21:38 22:31 r435
+Presence tttoh 4 23:13 23:56 x879
+Presence kuxdlsx 5 03:46 13:40 i856
+Presence gyymbgh 5 20:49 23:04 y357
+Presence oyrfzni 6 15:08 18:48 x879
+Presence pvad 3 20:52 21:57 k542
+Presence pvad 3 06:09 20:03 v650
+Presence tttoh 5 19:12 21:06 r435
+Presence pvad 2 13:27 19:01 y357
+Presence tttoh 4 17:28 21:17 y357
+Presence oyrfzni 4 11:38 15:17 v650
+Presence oyrfzni 4 04:52 06:32 x879
+Presence kuxdlsx 2 05:55 12:50 i856
+Presence kuxdlsx 3 13:57 17:38 i856
+Presence kuxdlsx 6 02:14 22:16 v650
+Presence gyymbgh 3 00:03 02:57 e717
+Presence oyrfzni 4 20:50 22:23 x879
+Presence gyymbgh 6 14:49 15:55 x879
+Presence pvad 3 11:20 18:56 k542
+Presence kuxdlsx 4 07:24 09:29 k542
+Presence kuxdlsx 5 21:48 23:40 v650
+Presence oyrfzni 5 13:56 16:31 o182
+Presence kuxdlsx 3 00:26 12:02 e717
+Presence gyymbgh 6 12:16 14:16 d970
+Presence kuxdlsx 2 04:08 09:29 e717
+Presence utqtf 3 06:05 13:33 r435
+Presence oyrfzni 6 20:25 23:42 i856
+Presence pvad 1 03:17 03:20 i856
+Presence utqtf 4 15:29 18:37 r435
+Presence oyrfzni 1 10:37 14:35 i856
+Presence tttoh 3 10:06 21:23 k542
+Presence caae 5 01:12 21:07 r435
+Presence kuxdlsx 4 04:06 18:22 y357
+Presence pvad 3 14:12 23:54 y357
+Presence kuxdlsx 2 19:19 21:47 y357
+Presence ppasdy 3 03:33 18:35 r435
+Presence caae 2 22:27 22:55 y357
+Presence pvad 5 01:42 12:09 d970
+Presence caae 6 05:27 20:29 d970
+Presence tttoh 2 09:55 23:49 b157
+Presence ppasdy 1 20:47 22:19 i856
+Presence oyrfzni 6 04:16 18:45 b157
+Presence dhjtvse 1 22:51 23:45 d970
+Presence kuxdlsx 1 18:51 21:30 r435
+Presence pvad 1 15:26 16:01 e717
+Presence utqtf 1 19:33 23:30 i856
+Presence caae 2 23:36 23:55 o182
+Presence tttoh 1 00:00 04:10 y357
